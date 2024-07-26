@@ -1,0 +1,23 @@
+{
+  "name": "socketio_intro",
+  "version": "1.0.0",
+  "description": "A simple chat app, as an introductory project to learning socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "socketio",
+    "websocket",
+    "javaScript",
+    "API",
+    "chatApp"
+  ],
+  "author": "Aba Nicaisse",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
